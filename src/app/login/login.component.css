@@ -1,0 +1,64 @@
+
+ 
+.example-spacer{
+    flex: 1 1 auto;
+}
+
+.example-card {
+  /* max-width: 400px; */
+  width:auto;
+    
+}
+ 
+
+.example-card mat-card-actions{
+
+  /* padding: 0 6px 0 6px;
+  margin: 6px 8px 6px 8px;
+  min-width: 88px;
+  border-radius: 9px;
+  font-size: 14px;
+  text-align: center;
+  text-transform: uppercase;
+  text-decoration:none;
+  border: none;
+  outline: none;  */
+ margin : auto;
+  /* width : 20%; */
+  
+ 
+
+}
+.example-card button{
+ position: relative;
+  /* margin-left: 500px; */
+  padding-left: 2px;
+   margin-inline-start: 150px;
+  margin-inline-end: 200px; 
+ 
+}
+/* .mat-button
+{
+  padding-right: 50px;
+  
+} */
+
+.footer{
+  height:180px;
+  
+}
+/* .example-spacer .mat-button{
+  margin-inline-start: 300px;
+  background-position-x: 50%;
+} */
+
+.footer h3{
+  
+  left : 100px;
+}
+
+.tool{
+
+margin: auto;
+/* margin-block-end: 10px; */
+}
